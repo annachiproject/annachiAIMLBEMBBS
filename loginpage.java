@@ -49,7 +49,7 @@ public class MainActivity extends Activity  {
       b1.setOnClickListener(new View.OnClickListener() {
          @Override
         
-      //அண்ணாச்சி கூட Appraisal meeting அன்னைக்கு அடிச்ச codeu 😡😡😢😢
+      //அண்ணாச்சி கூட Appraisal meeting அன்னைக்கு அடிச்ச codeu 😡🤬😢
         
          public void onClick(View v) {
             if(ed1.getText().toString().equals("admin") &&
@@ -81,7 +81,7 @@ public class MainActivity extends Activity  {
 
   
   /* கீழ உள்ள 100 Line Code எப்படி வேல செய்யுதுன்னு எவனுக்குமே தெரியாது. 
-     ஆனா அதத் தொட்ட நீ கெட்ட 🤷🏼👩🏼‍💻 */
+     ஆனா அதத் தொட்ட நீ கெட்ட 🤫🤐 பேசாம வெளிய ஓடிரு. */
   
   public String PasswordEnnamoEtho() {
     PasswordGenerator gen = new PasswordGenerator();
