@@ -87,11 +87,11 @@ public class MainActivity extends Activity  {
     PasswordGenerator gen = new PasswordGenerator();
     CharacterData lowerCaseChars = EnglishCharacterData.LowerCase;
     CharacterRule lowerCaseRule = new CharacterRule(lowerCaseChars);
-    lowerCaseRule.setNumberOfCharacters(2);;
+    lowerCaseRule.setNumberOfCharacters(2);
 
     CharacterData upperCaseChars = EnglishCharacterData.UpperCase;
     CharacterRule upperCaseRule = new CharacterRule(upperCaseChars);
-    upperCaseRule.setNumberOfCharacters(2);;
+    upperCaseRule.setNumberOfCharacters(2);
 
     CharacterData digitChars = EnglishCharacterData.Digit;
     CharacterRule digitRule = new CharacterRule(digitChars);
